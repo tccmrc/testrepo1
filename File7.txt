@@ -1,1 +1,2 @@
 Contenuto del File7.txt sul local repository
+Contenuto del File7.txt sul remote repository
